@@ -1,0 +1,19 @@
+{
+  "name": "postme",
+  "version": "1.0.0",
+  "description": "Mi primer Aplicación Web Progresiva",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c -1 ."
+  },
+  "keywords": [
+    "pwa",
+    "postme",
+    "utcv"
+  ],
+  "author": "d20203l001088@hotmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
